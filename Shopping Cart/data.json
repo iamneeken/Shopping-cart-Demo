@@ -1,0 +1,18 @@
+[
+    {
+        "title":"Nike Shoe",
+        "image":"../img/img1.jpg",
+        "price":2501
+    },
+    {
+        "title":"Nike Shoe",
+        "image":"../img/img1.jpg",
+        "price":2502
+    },
+    {
+        "title":"Nike Shoe",
+        "image":"../img/img1.jpg",
+        "price":2503
+    }
+
+]
